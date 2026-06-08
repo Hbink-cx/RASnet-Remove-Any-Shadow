@@ -51,8 +51,8 @@ Ensure that the model weights are stored in the same directory as below.
 | dirname    | download link                                                                                             | dir within the code |
 |------------|-----------------------------------------------------------------------------------------------------------|----------------------|
 | sd         | [Google Drive](https://drive.google.com/drive/folders/1w71cca44VKyhMZHX0lqCNDJKkpl1B_ha?usp=drive_link)  | `weights/sd`         |
-| controlnet | [Google Drive](https://drive.google.com/drive/folders/1H6xlZ30U5PTrLXlStO9TuNy6SykBPB8O?usp=drive_link)  | `weights/controlnet` |
-| cross_vae  | [Google Drive](https://drive.google.com/drive/folders/1Bk2TSmPLWDACSY4If_DTGXbIPo2iS50g?usp=drive_link)  | `weights/cross_vae`  |
+| controlnet | [Google Drive](https://drive.google.com/drive/folders/1Bk2TSmPLWDACSY4If_DTGXbIPo2iS50g?usp=drive_link)  | `weights/controlnet` |
+| cross_vae  | [Google Drive](https://drive.google.com/drive/folders/1H6xlZ30U5PTrLXlStO9TuNy6SykBPB8O?usp=drive_link)  | `weights/cross_vae`  |
 
 ### Training
 > ⏳ Code will be released soon.
